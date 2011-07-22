@@ -6,8 +6,8 @@ import javax.inject.Inject;
 
 import br.com.brasilti.project.entities.Imovel;
 import br.com.brasilti.project.entities.Tipo;
-import br.com.wave.repository.core.Seeker;
-import br.com.wave.repository.propositions.Equals;
+import br.com.brasilti.repository.core.Seeker;
+import br.com.brasilti.repository.propositions.Equals;
 
 public class ReportImoveisPorTipo {
 
